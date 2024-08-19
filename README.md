@@ -36,5 +36,5 @@ I love diving into data, exploring new technologies, and coding up creative solu
 
 
 <div align="center">
-  <img src="https://github.com/amanzoni1/amanzoni1/blob/main/gitgif.gif" width="100%" height="350px" />
+  <img src="https://github.com/amanzoni1/amanzoni1/blob/main/gitgif.gif" width="100%" height="300px" />
 </div>
