@@ -2,7 +2,7 @@
 
 I love diving into data, exploring new technologies, and coding up creative solutions. Right now, I’m focused on learning and building projects with machine learning.
 
----
+###
 
 ### Technologies
 
@@ -36,5 +36,5 @@ I love diving into data, exploring new technologies, and coding up creative solu
 
 
 <div align="center">
-  <img src="https://github.com/amanzoni1/amanzoni1/blob/main/gitgif.gif" width="100%" height="300px" />
+  <img src="https://github.com/amanzoni1/amanzoni1/blob/main/gitgif.gif" width="100%" height="320px" />
 </div>
