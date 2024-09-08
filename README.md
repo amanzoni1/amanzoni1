@@ -13,11 +13,10 @@ I love diving into data, exploring new technologies, and coding up creative solu
   <img src="https://img.shields.io/badge/Matplotlib-3776AB?logo=matplotlib&logoColor=white&style=for-the-badge" height="25" alt="matplotlib logo" />
   <img src="https://img.shields.io/badge/Seaborn-3776AB?logo=seaborn&logoColor=white&style=for-the-badge" height="25" alt="seaborn logo" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge" height="25" alt="scikit-learn logo" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" height="25" alt="pytorch logo" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="25" alt="jupyter logo" />
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white&style=for-the-badge" height="25" alt="google colab logo" />
   <!-- <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=black&style=for-the-badge" height="25" alt="tensorflow logo" />
-  <img width="5" /> -->
-  <!-- <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" height="25" alt="pytorch logo" />
   <img width="5" /> -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="25" alt="javascript logo" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="25" alt="nodejs logo" />
