@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-I love diving into data, exploring new technologies, and coding up creative solutions. Right now, I’m focused on learning and building projects with machine learning.
+I'm passionate about machine learning, artificial intelligence, and exploring innovative technologies. I love diving into data, crafting creative coding solutions, and continuously learning. Always curious to tackle new challenges in the tech world!
 
 ###
 
